@@ -1,5 +1,5 @@
 """
-projekt_3.py: třetí projekt
+Finalniukol_prog_Plainer.py
 author: Jan Plainer
 email: plain67529@mot.sps-dopravni.cz
 discord: COGYsek
